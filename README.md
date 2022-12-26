@@ -18,5 +18,3 @@ You don't have to install the app on your PC to run it so you can use it even yo
 ## Preview
 
 <img src="anti-afk-preview-2.png" style="border-radius: 12px;">
-
-![](anti-afk-preview-2.png)
