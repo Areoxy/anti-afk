@@ -15,6 +15,9 @@ You don't have to install the app on your PC to run it so you can use it even yo
 - Unzip the folder
 - Run the Anti-AFK.exe
 
+## Found a bug or have some questions?
+Join our [Discord](https://discord.gg/9VSEt26ngV)
+
 ## Preview
 
 <img src="anti-afk-preview-2.png" style="border-radius: 12px;">
