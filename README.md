@@ -17,4 +17,4 @@ You don't have to install the app on your PC to run it so you can use it even yo
 
 ## Preview
 
-
+![](anti-afk-preview-2.png)
